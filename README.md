@@ -21,7 +21,6 @@
 <a href="https://fb.com/ahmad.m.sunono" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmad.m.sunono" height="30" width="40" /></a>
 <a href="https://instagram.com/ahmadsunono" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmad.m.sunono" height="30" width="40" /></a>
 <a href="https://medium.com/@sonouno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sonouno" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@ahmadsnono" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ahmadsnono" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/asonouno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asonouno" height="30" width="40" /></a>
 </p>
 
